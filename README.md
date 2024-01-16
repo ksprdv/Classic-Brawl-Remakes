@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to Classic-Brawl-Remake 👋</h1>
 
-Open source Brawl Stars server emulator for version 19 of the game!
+Open source Brawl Stars server emulator for version 20 of the game!
 
 
-![ScreenShot](https://media.discordapp.net/attachments/711412740199022603/810888977942577222/unknown.png) 
+![ScreenShot](https://media.discordapp.net/attachments/711412740199022603/810686774220423199/unknown.png) 
 
 
 ## What's working ?
@@ -13,19 +13,21 @@ Open source Brawl Stars server emulator for version 19 of the game!
   - Unlimited resources
   - Brawlers from boxes  
   - All skins unlocked
-  - Gadgets and Star Powers
+  - Star Powers
   - Notifications
 - Shop
   - Special offers
   - Boxes
-  - Gold and other resources 
-  - Dudu logic shop :>
+  - Gold and other resources
+  - Dudu shop logic :>
 - Club
   - Join
   - Leave
   - Chat
   - Update settings
   - Bot commands
+- Events
+  - Special maps
 
 ...and much more!
 
@@ -58,10 +60,7 @@ Open source Brawl Stars server emulator for version 19 of the game!
 
 
 ## Configure client
-To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://mega.nz/folder/CX5XAK4T#G-nEfnR8y82Gk3ZuzOwtyQ/file/OHhWEZwL). Just replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}```
-
-
-
+To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://download.wetransfer.com//us2/ad60b0dc4023ccc9227cb1e7fbcc96ac20210214114136/7a198df23fc3fe8cd23234d1dc6e8eee68e174a6/Classic%20Brawl%20v20.apk?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTMzNTQxMzAsInVuaXF1ZSI6ImFkNjBiMGRjNDAyM2NjYzkyMjdjYjFlN2ZiY2M5NmFjMjAyMTAyMTQxMTQxMzYiLCJmaWxlbmFtZSI6IkNsYXNzaWMgQnJhd2wgdjIwLmFwayIsIndheWJpbGxfdXJsIjoiaHR0cDovL3Byb2R1Y3Rpb24uYmFja2VuZC5zZXJ2aWNlLnVzLWVhc3QtMS53dDo5MjkyL3dheWJpbGwvdjEvc2Fya2FyLzdmYmEyOTY1M2Q5ZTViNDlhYmM4NmUyYzU3NWQxNTlmZTZkMzE1MmI0ODEwZjg2Yjc2YTI2Mzk0ODA0NzkwYWM1NWQ0MTBkZTAxNmQxMzhhZDI1ZGJiIiwiZmluZ2VycHJpbnQiOiI3YTE5OGRmMjNmYzNmZThjZDIzMjM0ZDFkYzZlOGVlZTY4ZTE3NGE2IiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC93ZWJob29rcy9iYWNrZW5kXCJ9LFwiZm9ybVwiOntcInRyYW5zZmVyX2lkXCI6XCJhZDYwYjBkYzQwMjNjY2M5MjI3Y2IxZTdmYmNjOTZhYzIwMjEwMjE0MTE0MTM2XCIsXCJkb3dubG9hZF9pZFwiOjExNDUyNTgzMjM4fX0ifQ.fU2SFtYADLGy5gCp-6nt6pPOPbh-KSNR-9lJELKM6Po). Just replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP"}}}```
 
 
 
